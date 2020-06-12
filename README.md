@@ -28,9 +28,9 @@ If you are going to hold or know an **ONLINE** meet-up, conference, hackathon, o
 ## The BEP template
 
 
-| id  | status    | author | event_name                                  | event_type | start_date | end_date   | blockchain | topics                                                                                                                                                                                                                                                                                                          | dev_type | organizers                    | prize | price |
+| id  | status    | author | event_name | event_type | start_date | end_date   | blockchain | topics                                                                                                                                                                                                                                                                                                          | dev_type | organizers                    | prize | price |
 | --- | --------- | ------ | ------------------------------------------- | ---------- | ---------- | ---------- | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ----------------------------- | ----- | ----- |
-|  <will be assigned by developers>    | Proposed | <github_username>  | <event name>  | <type of online event> | <date of event start> | <date of event end> | <blockchain name(s)>      | <list of topics> | <developer type>      | <who organize the event>| <does it has prizes> | <specify the price range> |
+|  will be assigned by developers    | Proposed | github_username | event name | type of online event | date of event start | date of event end | blockchain name(s)     | list of topics | developer type>     | who organize the event| does it has prizes | specify the price range |
 
 After you fill the table, provide us more details about the event.
 #### Summary
